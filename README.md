@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)
+  - [Incident Response for Simulated Alerts Using NIST 800-61](https://github.com/chrisreddy1/Incident-Response)
 
 <h2> 🤳 Connect with me:</h2>
 
