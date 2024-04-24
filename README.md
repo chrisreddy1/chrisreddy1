@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)
+ 
+- <b>Wireshark / Network Traffic Analysis Projects</b>
+  - [Capturing Packets with Wireshark](https://github.com/chrisreddy1/Packet-Capture)
 
 <h2> 🤳 Connect with me:</h2>
 
