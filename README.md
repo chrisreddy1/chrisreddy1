@@ -7,6 +7,9 @@
  
 - <b>Wireshark / Network Traffic Analysis Projects</b>
   - [Capturing Packets with Wireshark](https://github.com/chrisreddy1/Packet-Capture)
+ 
+- <b>Programming Projects</b>
+  - [Parsing and Exporting Criminal Court Calendar Data Using Python](https://github.com/chrisreddy1/Python/blob/main/FIN.py)
 
 <h2> 🤳 Connect with me:</h2>
 
