@@ -11,7 +11,7 @@
 - <b>Programming Projects</b>
   - [Parsing and Exporting Criminal Court Calendar Data Using Python](https://github.com/chrisreddy1/Python/blob/main/FIN.py)
  
-- <b>GRC (Governance, Risk, and Compliance) Projects</b>
+- <b>Governance, Risk, and Compliance (GRC) Projects</b>
   - [Cybersecurity Program Using the NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
 
 <h2> 🤳 Connect with me:</h2>
