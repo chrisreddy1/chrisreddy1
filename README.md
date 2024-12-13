@@ -8,9 +8,6 @@
 - <b>Wireshark / Network Traffic Analysis Projects</b>
   - [Capturing Packets with Wireshark](https://github.com/chrisreddy1/Packet-Capture)
  
-- <b>Programming Projects</b>
-  - [Parsing and Exporting Criminal Court Calendar Data Using Python](https://github.com/chrisreddy1/Python/blob/main/FIN.py)
- 
 - <b>Governance, Risk, and Compliance (GRC) Projects</b>
   - [Cybersecurity Program Using the NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
 
