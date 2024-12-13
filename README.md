@@ -9,7 +9,7 @@
   - [Capturing Packets with Wireshark](https://github.com/chrisreddy1/Packet-Capture)
  
 - <b>Governance, Risk, and Compliance (GRC) Projects</b>
-  - [Cybersecurity Program Using the NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
+  - [Cybersecurity Program Using NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
 
 <h2> 🤳 Connect with me:</h2>
 
