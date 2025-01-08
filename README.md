@@ -5,9 +5,6 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)
  
-- <b>Wireshark / Network Traffic Analysis Projects</b>
-  - [Capturing Packets with Wireshark](https://github.com/chrisreddy1/Packet-Capture)
- 
 - <b>Governance, Risk, and Compliance (GRC) Projects</b>
   - [Cybersecurity Program Using NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
 
