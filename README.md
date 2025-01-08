@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)
  
 - <b>Governance, Risk, and Compliance (GRC) Projects</b>
-  - [Cybersecurity Program Using NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
+  - [Enterprise Cybersecurity Program Using NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
 
 <h2> 🤳 Connect with me:</h2>
 
