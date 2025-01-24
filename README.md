@@ -1,30 +1,29 @@
-<h1>Hi, I'm Chris! Passionate Cybersecurity Professional</h1>
+# <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 My Projects:</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)
- 
-- <b>Governance, Risk, and Compliance (GRC) Projects</b>
-  - [Enterprise Cybersecurity Program Using NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)
 
-<h2> 🤳 Connect with me:</h2>
+## ⚠️ Vulnerability Management Projects
 
-[<img align="left" alt="ChrisReddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **[Vulnerability Management Program Implementation (In Progress)](https://github.com/chrisreddy1/vulnerability-management-program)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
+
+## 📝 Governance, Risk, and Compliance (GRC) Projects
+
+- **[Enterprise Cybersecurity Assessment Using NIST CSF](https://github.com/chrisreddy1/NIST-Assessment)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="Chris Reddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/chrismreddy
 
 <!--
-**chrisreddy1/chrisreddy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
