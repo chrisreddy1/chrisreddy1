@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm a cybersecurity professional who thrives on hands-on learning — from simulating real-world attacks in lab environments to building proactive defense strategies. Whether it's hunting for threats in a SOC, building secure architectures, or rooting vulnerable boxes, I enjoy diving deep into both the red and blue sides of security.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -11,11 +11,6 @@ I'm a cybersecurity professional who thrives on hands-on learning — from simul
 - **[Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
-
-## 🧰 Offensive Security / Penetration Testing Projects
-
-- **[TCM PEH Mid-Course Capstone Write-Ups](https://github.com/chrisreddy1/peh-capstone-boxes)**  
-  Hands-on penetration testing of vulnerable boxes from *TCM Security’s Practical Ethical Hacking* course. Includes detailed walkthroughs for enumeration, exploitation, and privilege escalation on boxes like **Academy**, **Blackpearl**, **Blue**, **Dev**, and **Jenkins**.
 
 <hr/>
 
