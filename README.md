@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm an aspiring cybersecurity professional with a passion for hands-on learning. My projects span vulnerability management, security operations, and penetration testing — each showcasing practical skills in real-world security scenarios.
+I'm an aspiring cybersecurity professional with a passion for hands-on learning. My projects span vulnerability management, security operations, and penetration testing, each showcasing practical skills in real-world security scenarios.
 
 ## ⚠️ Vulnerability Management Projects
 
