@@ -1,7 +1,5 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Ethical hacker in training | Penetration testing, exploitation, and hands-on lab challenges
-
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/chrisreddy1/vulnerability-management-program)**
