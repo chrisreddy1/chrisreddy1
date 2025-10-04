@@ -1,5 +1,7 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/chrisreddy1/vulnerability-management-program)**
@@ -9,14 +11,6 @@
 - **[Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
-
-## ⚡ Penetration Testing / Ethical Hacking
-
-* **[PEH Capstone Boxes](https://github.com/chrisreddy1/peh-capstone-boxes)**  
-  A set of walkthroughs for lab machines from the Practical Ethical Hacking (PEH) course by TCM Security.  
-  - Boxes covered: Academy, Blackpearl, Blue, Dev, Jenkins  
-  - Topics: scanning & enumeration, exploitation, privilege escalation, post-exploitation  
-  - Key takeaways: methodology, tools used, lessons learned  
 
 <hr/>
 
