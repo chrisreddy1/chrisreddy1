@@ -17,7 +17,7 @@ These projects let me dive deep into the ever-evolving landscape of cybersecurit
 
 - **[Practical Ethical Hacking (PEH) Mid-Course Capstone Write-Ups](https://github.com/chrisreddy1/peh-capstone-boxes)**  
   A collection of detailed walkthroughs for *capstone challenge boxes* from TCM Security’s [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) course.  
-  Focus areas include enumeration, exploitation, privilege escalation, and post-exploitation — all within a legal lab environment.
+  Focus areas include enumeration, exploitation, privilege escalation, and post-exploitation, all within a legal lab environment.
 
 <hr/>
 
