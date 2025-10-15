@@ -12,6 +12,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
 
+## 💻 Ethical Hacking & Penetration Testing
+
+- **[Practical Ethical Hacking (PEH) Mid-Course Capstone Write-Ups](https://github.com/chrisreddy1/peh-capstone-boxes)**  
+  A collection of detailed walkthroughs for *capstone challenge boxes* from TCM Security’s [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) course.  
+  Focus areas include enumeration, exploitation, privilege escalation, and post-exploitation — all within a legal lab environment.
+
 <hr/>
 
 ## 🤳 Connect With Me
