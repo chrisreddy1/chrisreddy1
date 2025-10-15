@@ -1,7 +1,8 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on, practical projects. From vulnerability management and threat detection to ethical hacking and penetration testing, my work spans both the defensive and offensive sides of security.
 
+These projects let me dive deep into the ever-evolving landscape of cybersecurity; I build, break, and secure systems to better understand how to protect them.
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/chrisreddy1/vulnerability-management-program)**
