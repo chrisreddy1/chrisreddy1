@@ -1,8 +1,7 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on, practical projects. From vulnerability management and threat detection to ethical hacking and penetration testing, my work spans both the defensive and offensive sides of security.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-These projects let me dive deep into the ever-evolving landscape of cybersecurity; I build, break, and secure systems to better understand how to protect them.
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/chrisreddy1/vulnerability-management-program)**
@@ -12,12 +11,6 @@ These projects let me dive deep into the ever-evolving landscape of cybersecurit
 - **[Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
-
-## 💻 Ethical Hacking & Penetration Testing
-
-- **[Practical Ethical Hacking (PEH) Mid-Course Capstone Write-Ups](https://github.com/chrisreddy1/peh-capstone-boxes)**  
-  A collection of detailed walkthroughs for *capstone challenge boxes* from TCM Security’s [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) course.  
-  Focus areas include enumeration, exploitation, privilege escalation, and post-exploitation, all within a legal lab environment.
 
 <hr/>
 
