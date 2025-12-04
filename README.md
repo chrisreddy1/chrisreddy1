@@ -12,6 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
 
+## 🐍 Python Projects
+
+- **[Learn Python the Hard Way Solutions](https://github.com/chrisreddy1/LPTHW)**  
+  My completed exercises from Zed Shaw's *Learn Python the Hard Way*, showcasing foundational Python skills.
+  
 <hr/>
 
 ## 🤳 Connect With Me
