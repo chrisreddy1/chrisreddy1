@@ -11,11 +11,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
-
-## 🐍 Python Projects
-
-- **[Learn Python the Hard Way Solutions](https://github.com/chrisreddy1/LPTHW)**  
-  My completed exercises from Zed Shaw's *Learn Python the Hard Way*, showcasing foundational Python skills.
   
 <hr/>
 
