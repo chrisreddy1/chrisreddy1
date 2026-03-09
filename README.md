@@ -4,11 +4,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🛠️ Penetration Testing Projects
 
-- **[PEH Capstone Box 1 – EternalBlue SMB Exploitation Lab (Windows 7)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blue.md)**
-- **[PEH Capstone Box 2 – Multi-Stage Web Application Exploitation & Privilege Escalation](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Academy.md)**
-- **[PEH Capstone Box 3 – NFS Exposure, BoltWire LFI Exploitation & Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Dev.md)**
-- **[PEH Capstone Box 4 – Jenkins Compromise & Windows Privilege Escalation via Unquoted Service Path](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Butler.md)**
-- **[PEH Capstone Box 5 – DNS Enumeration, Navigate CMS RCE & SUID Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blackpearl.md)**
+- **[EternalBlue SMB Exploitation Lab (Windows 7)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blue.md)**
+- **[Multi-Stage Web Application Exploitation & Privilege Escalation](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Academy.md)**
+- **[NFS Exposure, BoltWire LFI Exploitation & Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Dev.md)**
+- **[Jenkins Compromise & Windows Privilege Escalation via Unquoted Service Path](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Butler.md)**
+- **[DNS Enumeration, Navigate CMS RCE & SUID Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blackpearl.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
