@@ -4,13 +4,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🛠️ Penetration Testing Projects
 
-- **[PEH Capstone: Offensive Security Lab Boxes](https://github.com/chrisreddy1/peh-capstone-boxes)**  
-  Hands-on penetration testing against vulnerable machines following a real-world methodology including:
-  - Enumeration and reconnaissance
-  - Vulnerability discovery and exploitation
-  - Privilege escalation
-  - Post-exploitation techniques
-  - Documentation and reporting
+- **[Multi-Stage Web Application Exploitation & Privilege Escalation](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Academy.md)**
+- **[DNS Enumeration, Navigate CMS RCE & SUID Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blackpearl.md)**
+- **[EternalBlue SMB Exploitation Lab (Windows 7)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blue.md)**
+- **[Jenkins Compromise & Windows Privilege Escalation via Unquoted Service Path](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Butler.md)**
+- **[NFS Exposure, BoltWire LFI Exploitation & Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Dev.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
