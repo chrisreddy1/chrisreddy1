@@ -1,6 +1,14 @@
 # <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection and penetration testing, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+## 🛠️ Penetration Testing Projects
+
+- **[Multi-Stage Web Application Exploitation & Privilege Escalation](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Academy.md)**
+- **[DNS Enumeration, Navigate CMS RCE & SUID Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blackpearl.md)**
+- **[EternalBlue SMB Exploitation Lab (Windows 7)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Blue.md)**
+- **[Jenkins Compromise & Windows Privilege Escalation via Unquoted Service Path](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Butler.md)**
+- **[NFS Exposure, BoltWire LFI Exploitation & Privilege Escalation (Linux)](https://github.com/chrisreddy1/peh-capstone-boxes/blob/main/Dev.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
