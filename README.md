@@ -1,24 +1,40 @@
-# <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Chris Reddy
 
-Hands-on security engineering projects, mostly Azure and AWS. Each repo documents what I built, what it caught, and what it missed.
+**Security Operations → Cloud Security Engineer.** AWS-focused, currently 
+studying for Solutions Architect – Associate with Security Specialty next.
 
-## ⚠️ Vulnerability Management Projects
+Below is hands-on work in detection engineering, threat hunting, and 
+vulnerability management. My cloud security build-out starts alongside 
+the SAA cert — first project is a Terraform-deployed AWS security baseline.
 
-- **[Vulnerability Management Program Implementation](https://github.com/chrisreddy1/vulnerability-management-program)**
+**Certifications:** AWS Certified Cloud Practitioner
 
-## 🚨 Threat Hunting and Security Operations
+[LinkedIn](https://linkedin.com/in/chrismreddy) · [X](https://x.com/chrisisntreddy)
 
-- **[Creating a Live SOC / Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
+---
 
-<hr/>
+## 🚨 Security Operations & Detection
 
-## 🤳 Connect With Me
+| Project | What it does | Stack |
+|---|---|---|
+| **[SOC + Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)** | Live honeynet ingesting Windows, Linux, and network telemetry into Microsoft Sentinel. Hardening with NSG restrictions and private endpoints cut security incidents from 270 to 0 across matched 24-hour windows. | Azure, Sentinel, Log Analytics, KQL, NSGs, Private Endpoints |
+| **[Threat Hunt: Insider Data Exfiltration](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)** | Endpoint hunt for unauthorized archiving and staged exfiltration, with the KQL queries and a written incident timeline. | Defender for Endpoint, KQL, MITRE ATT&CK |
+| **[Threat Hunt: Tor Browser Usage](https://github.com/chrisreddy1/threat-hunting-scenario-tor)** | Detected unsanctioned Tor installation and traffic through process, file, and network telemetry. Produced hunt queries and policy recommendations. | Defender for Endpoint, KQL, MITRE ATT&CK |
 
-[<img align="left" alt="Chris Reddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chris Reddy | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.14.0/icons/x.svg" />][x]
+## 🛡️ Vulnerability Management & Governance
 
+| Project | What it does | Stack |
+|---|---|---|
+| **[Vulnerability Management Program](https://github.com/chrisreddy1/vulnerability-management-program)** | Built a full scan-remediate-verify lifecycle: authenticated scanning, risk-ranked findings, scripted remediation, and rescan validation. | Tenable, PowerShell, Windows Server, CVSS |
+| **[NIST Security Assessment](https://github.com/chrisreddy1/NIST-Assessment)** | Control gap assessment against NIST 800-53, mapping findings to control families with prioritized remediation guidance. | NIST 800-53, risk assessment, control mapping |
 
-[linkedin]: https://linkedin.com/in/chrismreddy
-[x]: https://x.com/chrisisntreddy
+---
+
+## Tooling
+
+**Cloud** Azure (Sentinel, Defender for Endpoint, Log Analytics, NSGs, 
+Key Vault) · AWS (IAM, S3, EC2, VPC, CloudTrail)
+
+**Detection & Analysis** KQL · MITRE ATT&CK · Wireshark · PowerShell
+
+**Vulnerability & Governance** Tenable · NIST 800-53 · CVSS
