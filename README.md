@@ -1,14 +1,5 @@
 # Chris Reddy
 
-**Security Operations → Cloud Security Engineer.** AWS-focused, currently 
-studying for Solutions Architect – Associate with Security Specialty next.
-
-Below is hands-on work in detection engineering, threat hunting, and 
-vulnerability management. My cloud security build-out starts alongside 
-the SAA cert — first project is a Terraform-deployed AWS security baseline.
-
-**Certifications:** AWS Certified Cloud Practitioner
-
 [LinkedIn](https://linkedin.com/in/chrismreddy) · [X](https://x.com/chrisisntreddy)
 
 ---
