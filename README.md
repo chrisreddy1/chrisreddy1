@@ -24,7 +24,7 @@
 ## Tooling
 
 **Cloud** Azure (Sentinel, Defender for Endpoint, Log Analytics, NSGs, 
-Key Vault) · AWS (IAM, S3, EC2, VPC, CloudTrail)
+Key Vault)
 
 **Detection & Analysis** KQL · MITRE ATT&CK · Wireshark · PowerShell
 
