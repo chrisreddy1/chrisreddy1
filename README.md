@@ -1,6 +1,6 @@
 # Chris Reddy
 
-[LinkedIn](https://linkedin.com/in/chrismreddy) · [X](https://x.com/chrisisntreddy)
+[LinkedIn](https://linkedin.com/in/chrismreddy)
 
 ---
 
