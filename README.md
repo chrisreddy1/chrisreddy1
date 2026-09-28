@@ -1,31 +1,28 @@
-# Chris Reddy
+# <a href="https://www.linkedin.com/in/chrismreddy/">Chris Reddy</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-[LinkedIn](https://linkedin.com/in/chrismreddy)
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
----
 
-## 🚨 Security Operations & Detection
+## ⚠️ Vulnerability Management Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[SOC + Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)** | Live honeynet ingesting Windows, Linux, and network telemetry into Microsoft Sentinel. Hardening with NSG restrictions and private endpoints cut security incidents from 270 to 0 across matched 24-hour windows. | Azure, Sentinel, Log Analytics, KQL, NSGs, Private Endpoints |
-| **[Threat Hunt: Insider Data Exfiltration](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)** | Endpoint hunt for unauthorized archiving and staged exfiltration, with the KQL queries and a written incident timeline. | Defender for Endpoint, KQL, MITRE ATT&CK |
-| **[Threat Hunt: Tor Browser Usage](https://github.com/chrisreddy1/threat-hunting-scenario-tor)** | Detected unsanctioned Tor installation and traffic through process, file, and network telemetry. Produced hunt queries and policy recommendations. | Defender for Endpoint, KQL, MITRE ATT&CK |
+- **[Vulnerability Management Program Implementation](https://github.com/chrisreddy1/vulnerability-management-program)**
+- **[NIST Security Assessment](https://github.com/chrisreddy1/NIST-Assessment)**
 
-## 🛡️ Vulnerability Management & Governance
+## 🚨 Threat Hunting and Security Operations
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Vulnerability Management Program](https://github.com/chrisreddy1/vulnerability-management-program)** | Built a full scan-remediate-verify lifecycle: authenticated scanning, risk-ranked findings, scripted remediation, and rescan validation. | Tenable, PowerShell, Windows Server, CVSS |
-| **[NIST Security Assessment](https://github.com/chrisreddy1/NIST-Assessment)** | Control gap assessment against NIST 800-53, mapping findings to control families with prioritized remediation guidance. | NIST 800-53, risk assessment, control mapping |
+- **[SOC + Honeynet in Azure](https://github.com/chrisreddy1/Azure-SOC)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisreddy1/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Insider Data Exfiltration)](https://github.com/chrisreddy1/threat-hunting-scenario-insider-threat)**
 
----
+<hr/>
 
-## Tooling
+## 🤳 Connect With Me
 
-**Cloud** Azure (Sentinel, Defender for Endpoint, Log Analytics, NSGs, 
-Key Vault)
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-**Detection & Analysis** KQL · MITRE ATT&CK · Wireshark · PowerShell
+[linkedin]: https://linkedin.com/in/chrismreddy
 
-**Vulnerability & Governance** Tenable · NIST 800-53 · CVSS
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
